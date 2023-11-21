@@ -1,0 +1,43 @@
+    1  ls
+    2  cd
+    3  mkdir test_app
+    4  pwd
+    5  cd ..
+    6  clear
+    7  ls
+    8  cd ..
+    9  cd..
+   10  cd ../..
+   11  Desktop
+   12  cd "Desktop"
+   13  /Desktop
+   14  ls
+   15  cd ..
+   16  cd ../..
+   17  mkdir test_app
+   18  pwd
+   19  /Desktop
+   20  c
+   21  users
+   22  mkdir test_app
+   23  mkdir lokesh_test
+   24  pwd
+   25  rmdir lokesh_test
+   26  cd test_app
+   27  mkdir f1
+   28  rmdir f1
+   29  touch f1.txt
+   30  rm -r f1
+   31  rm -r f1.txt
+   32  cat f4.txt
+   33  touch f1.txt
+   34  cat f1.txt
+   35  nano f2.py
+   36  nano f2.py
+   37  cat f2.py
+   38  cd f1
+   39  cd f1.txt
+   40  cd f1
+   41  nano f2.py
+   42  cat f1.txt
+   43  history >> commands.text
